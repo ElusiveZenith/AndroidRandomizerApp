@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">d20</string>
+    <string name="roll_button">Roll</string>
+    <string name="more_options">More</string>
+    <string name="left_arrow">&lt;</string>
+    <string name="title_activity_more_options">MoreOptions</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="right_arrow">&gt;</string>
+    <string name="custom_dice_name">Custom</string>
+    <string name="numeric_tab">Numeric</string>
+    <string name="list_tab">List</string>
+    <string name="main_fragment_preference_string">main_fragment_preference</string>
+    <string name="invalid_dice">Invalid Dice</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="multiple_of">Multiple Of</string>
+    <string name="number_of_dice">Number Of Dice</string>
+    <string name="prime_numbers">Prime Numbers</string>
+    <string name="evens">Evens</string>
+    <string name="odds">Odds</string>
+    <string name="delete_item_button_description">Delete item</string>
+</resources>
